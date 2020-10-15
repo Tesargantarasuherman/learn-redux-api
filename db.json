@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+          "id":1,
+          "nama":"Tesar",
+          "alamat":"Disini Aja",
+          "umur":"24",
+          "email":"@tgantara.com"
+        },
+        {
+          "id":2,
+          "nama":"Gantara",
+          "alamat":"Disini Aja",
+          "umur":"24",
+          "email":"@tgantara.com"
+        },
+        {
+          "id":3,
+          "nama":"Suherman",
+          "alamat":"Disini Aja",
+          "umur":"24",
+          "email":"@tgantara.com"
+        }
+    ]
+}
